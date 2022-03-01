@@ -1,0 +1,727 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Adambel Clym of the cloughe, and Wyllyam of Cloudesle]</title>
+            <title>Adam Bell, Clym of the Clough, and William of Cloudesley. Part 1.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1505</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07199</idno>
+            <idno type="STC">STC 1805.7</idno>
+            <idno type="STC">ESTC S90452</idno>
+            <idno type="EEBO-CITATION">60449085</idno>
+            <idno type="OCLC">ocm 60449085</idno>
+            <idno type="VID">181184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181184)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2173:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Adambel Clym of the cloughe, and Wyllyam of Cloudesle]</title>
+                  <title>Adam Bell, Clym of the Clough, and William of Cloudesley. Part 1.</title>
+                  <author>Heanley, John, former owner. NLS</author>
+                  <author>Anderson, John Eustace, former owner. NLS</author>
+               </titleStmt>
+               <extent>[4+] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>W. de Worde,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1505]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imperfect: fragment, four incomplete leaves. Title, place, and date supplied from STC (2nd ed.).</note>
+                  <note>Typeface appears to be one used by W. de Worde, hence place, printer, and date assigned--Cf. STC (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+                  <note>Provenance: 19th c. pictorial bookplate on front pastedown: Ex libris John Heanley. 19th c. armorial bookplate on front free endpaper: John Eustace Anderson.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem" subtype="fragment">
+            <pb facs="tcp:181184:1"/>
+            <pb facs="tcp:181184:1" rendition="simple:additions"/>
+            <pb facs="tcp:181184:2"/>
+            <lg>
+               <pb facs="tcp:181184:2" rendition="simple:additions"/>
+               <l>Theſe gates be ſhytſo wonderly well</l>
+               <l>That we may not come here in</l>
+               <l>Than ſpake clymme of the cloughe</l>
+               <l>With a wyle we wyll vs in brynge</l>
+               <l>Let vs ſay we be meſſengers</l>
+               <l>Streyght comen from oure kynge</l>
+               <l>Adam ſayd I haue a lettre wryten wele</l>
+               <l>Now let vs wyſely werke</l>
+               <l>We wyll ſay we haue the kynges ſeale</l>
+               <l>I holde the porter no clerke</l>
+               <l>Than adam bell bete on the gate</l>
+               <l>With ſtrokes greate and ſtronge</l>
+               <l>The porter herde ſuche noyſe therate</l>
+               <l>And to the gate fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e he thronge</l>
+               <l>Who is there nowe ſayd the porter</l>
+               <l>That maketh all this knockynge</l>
+               <l>We be two meſſengers ſayd clymme of the clo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Be comen ſtreyght frome oure kynge</l>
+               <l>We haue a lettre ſayd adam bell</l>
+               <l>To the Iuſtyce we muſt it brynge</l>
+               <l>Let vs in oure meſſage to do</l>
+               <l>That we were agayne to our kynge</l>
+               <l>Here cometh no man in ſayd the porter</l>
+               <l>By hym that dyed on a tre</l>
+               <l>Tyll a falſe thefe be hanged</l>
+               <l>Called wyllyam of clowdy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <pb facs="tcp:181184:3"/>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we haue the kynges ſeale</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ordane arte thou wode</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>orter had wende it had ben ſo</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>yghtly dyd of his hode</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>me be my lordes ſeale ſayd he</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>t ſhall ye come in</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ened the gate ryght ſhortly</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>euyll openynge for hym</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>we are we in ſayd adam bell</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>erof we are full fayne</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>t cryſt knoweth that herowed hell</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>w we ſhall come oute agayne</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> we the keys ſayd clym of the clowgh</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> well than ſholde we ſpede</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> myght we come out well ynough</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> we ſe tyme and nede</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> called the porter to a councell</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wronge his necke in two</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>d keſt hym in a depe dongeon</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>d toke the keys hym fro</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>w am I porter ſayd adam bell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>roder the keys haue we here</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> worſte porter to mery carlell</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> had this hondreth yere</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wyll we oure bowes bende</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e wyll we go</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oder</l>
+               <pb facs="tcp:181184:3"/>
+               <l>The market place of mery carlyll</l>
+               <l>They beſet in that ſtounde</l>
+               <l>And as they loked them beſyde</l>
+               <l>A payre of newe galowes there they ſe</l>
+               <l>And the iuſtyce with a queſt of ſwerers</l>
+               <l>That had iuged clowdyſle there hanged to be</l>
+               <l>And clowdyſle hymſelfe lay redy in a carte</l>
+               <l>Fall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounde bothe fote and hande</l>
+               <l>And a ſtronge rope aboute his necke</l>
+               <l>All redy for to be hangde</l>
+               <l>The iuſtyce called to hym a ſadde</l>
+               <l>Clowdyſles clothes ſholde he haue</l>
+               <l>To take the meſure of that good yoman</l>
+               <l>And therafter to make his graue</l>
+               <l>I haue ſene as greate a merueyll ſayd clowdy,</l>
+               <l>As bytwene this and pryme</l>
+               <l>He th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> maketh this graue for me</l>
+               <l>Hymſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe may lye therin</l>
+               <l>Thou ſpekeſt proudely ſayd the iuſtyce</l>
+               <l>I ſhall hange the with my hande</l>
+               <l>Full well that herde his bretheren two</l>
+               <l>There ſtyll as the dyd ſtande</l>
+               <l>Than clowdyſle caſt his eyen aſyd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And ſawe his two bretheren ſtande</l>
+               <l>At a corner of the market place</l>
+               <l>With theyr good bowes bente in theyr hand</l>
+               <l>Redy the iuſtyce for to chaſe</l>
+               <l>I ſe good comforte ſayd clowdyſle</l>
+               <l>Yet hope I well to fare</l>
+               <l>Yf I myght haue my handes at wyn</l>
+               <pb facs="tcp:181184:4"/>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ll wolde I care</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>pake good adam bell</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ie of the clowgh ſo fre</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e ye marke the iuſtyce well</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>er ye may hym ſe</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e ſheryf ſhote I wyll</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ly with an arowe kene</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſhotte in mery carlyll</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ven yere was not ſene</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ſed theyr arowes bothe at ones</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>an had they drede</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>hyt the iuſtyce the other the ſheryf</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>the theyr ſydes gan blede</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>voyded that them ſtode nye</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e iuſtyce fell to the grounde</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ſheryf fell nyghe hym by</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>d his dethes wounde</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>tezeyns faſt gan fle.</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>rſte no lenger abyde</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ghtly they louſed clowdyſle</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with ropes lay tyde</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſterte to an offycer of the towne</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ut of his hande he wronge</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de he ſmote them downe</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ght he had taryed to longe</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ſayd to his bretheren two</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>et vs togyder lyue and deye</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ue nede as I haue nowe</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>l ye fynde by me</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ell in that tyde</l>
+               <pb facs="tcp:181184:4"/>
+               <l>For theyr ſtrynges were of ſy<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e full ſure</l>
+               <l>That they kepte the ſtretes on euery ſyde</l>
+               <l>That batayll dyd longe endure</l>
+               <l>They fought togyder as bretheren true</l>
+               <l>Lyke hardy men and bolde</l>
+               <l>Many a man to the grounde they threwe</l>
+               <l>And made many an herte colde</l>
+               <l>But whan theyr arowes were all gone</l>
+               <l>Men preſyd on them full faſt</l>
+               <l>They drewe theyr ſwerdes than anone</l>
+               <l>And theyr bowes from them caſte</l>
+               <l>They wente lyghtly on theyr waye</l>
+               <l>With ſwerdes and buckelers rounde</l>
+               <l>By that it was the myddes of the daye</l>
+               <l>They had made many a wounde</l>
+               <l>There was many an oute horne in carlyll <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>owen</l>
+               <l>And the belles backwarde dyd they rynge</l>
+               <l>Many a woman ſayd alas</l>
+               <l>And many theyr handes dyd wrynge</l>
+               <l>The mayre of carlyll forth come was</l>
+               <l>And with hym a full grete route</l>
+               <l>Theſe thre yomen dredde hym full ſore</l>
+               <l>For theyr lyues ſtode in doubte</l>
+               <l>The mayre came armed a full greate pace</l>
+               <l>With a polaxe in his hande</l>
+               <l>Many a ſtronge man with hym was</l>
+               <l>There in that ſtoure to ſtande</l>
+               <l>The mayre ſmote at clowdyſle with his byll</l>
+               <l>His buckeler he braſt in two</l>
+               <l>Full many a yoman with grete yll</l>
+               <pb facs="tcp:181184:5"/>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s treaſon they cryed for wo</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>the gates faſt they bad</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>t theſe traytours theroute not go</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur all for nought was that they wrought</l>
+               <l>For ſo <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt they downe were layde</l>
+               <l>Tyll they all thre that ſo manfully fought</l>
+               <l>Were goten without at a brayde</l>
+               <l>Haue here your keys ſayd adam bell</l>
+               <l>Myne offy<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I here forſake</l>
+               <l>Yf ye do by my councell</l>
+               <l>A newe porter ye make</l>
+               <l>He threwe the keys there at theyr hedes</l>
+               <l>And bad them euyll to thryue</l>
+               <l>And all that letteth ony good yoman</l>
+               <l>To come and comforte his wyue</l>
+               <l>Thus <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> good yomen gone to the wode</l>
+               <l>As lyght as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efe on lynde</l>
+               <l>They laughe a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d be mercy in theyr mode</l>
+               <l>Theyr enemyes were farre behynde</l>
+               <l>Whan they came to Inglyſwode</l>
+               <l>Vnder theyr tryſty tre</l>
+               <l>There they founde bowes full gode</l>
+               <l>And arowes greate plente</l>
+               <l>So helpe me god ſayd adam bell</l>
+               <l>And clymme of the clowgh ſo fre</l>
+               <l>I wolde we were nowe in mery carlell</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e that fayre meyne</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them downe and made good chere</l>
+               <l>And eate an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke full well</l>
+               <l>Here is a fytte <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſe wyght yongemen</l>
+               <pb facs="tcp:181184:5"/>
+               <l>And another I ſhall you tell <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>AS they ſat in Inglyſwode</l>
+               <l>Vnder theyr tryſty tre</l>
+               <l>Them thought they herde a woma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>But her they myght not ſe</l>
+               <l>Sore ſyghed there fayre alyce</l>
+               <l>And <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as that euer I ſe this day.</l>
+               <l>For no<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is my dere huſbonde ſlayne</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as and welawaye</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ght I haue ſpoken with his de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>With eyther of them twayne</l>
+               <l>My herte were out of payne</l>
+               <l>Clowdyſle walked a lytell beſyde</l>
+               <l>And loked vnder the grene wod<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nde</l>
+               <l>He was ware of his wyfe and <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Full wo in herte and mynde<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Welcome wyfe than ſayd<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Vnto this tryſty tre</l>
+               <l>I had wende yeſter daye b<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Thou ſholde me neuer ha<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Nowe wele is meſh<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>My herte is out of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Dame he ſayd be me<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And thanke my <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>He<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Iw<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>The<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <pb facs="tcp:181184:6"/>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>we a harte of grece</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>oude there ſe</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>eſt alyce my wyfe</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of clowdyſle</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>oldely ſtode me by</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ayne full nye</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to theyr ſouper</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ete as they had</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>od of theyr fortune</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>he mery and glad</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>y had ſouped well</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>houten leace</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ayd we wyll to oure kynge</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a chartre of peace</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ournynge</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>er go</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ith me</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ayne</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>don gone</l>
+            </lg>
+            <pb facs="tcp:181184:6"/>
+            <pb facs="tcp:181184:7"/>
+            <pb facs="tcp:181184:7"/>
+            <pb facs="tcp:181184:8"/>
+            <pb facs="tcp:181184:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
